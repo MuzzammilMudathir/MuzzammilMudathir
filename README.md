@@ -1,6 +1,6 @@
 ### Hi there
 
-Hello, I'm Muzzammil Mudathir, an undergraduate Computer Science student based in Canada. My passion lies at the intersection of web and game development, where I leverage my skills to create engaging and innovative digital experiences. While these areas are my primary focus, my curiosity drives me to continuously explore various other sectors within computer science. I believe in the power of technology to transform ideas into reality, and I'm committed to learning and growing in this ever-evolving field.
+Hello, I'm Muzzammil Mudathir, an undergraduate Computer Science student based in Canada. My passion lies at the intersection of web and game development, where I leverage my skills to create engaging and innovative digital experiences. While these areas are my primary focus, my curiosity drives me to continuously explore various other sectors within computer science. Notably, I possess strong proficiency in Python, Java, C, and more, which further enhances my ability to transform ideas into reality through technology. I am committed to lifelong learning and growing in this dynamic and ever-evolving field.
 
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuzzammilMudathir)](https://github.com/anuraghazra/github-readme-stats)
